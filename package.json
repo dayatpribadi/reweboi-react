@@ -1,6 +1,7 @@
 {
   "name": "courses",
   "version": "0.1.0",
+  "homepage": "https://dayatpribadi.github.io/reweboi-react",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
